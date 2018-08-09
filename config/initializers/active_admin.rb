@@ -260,7 +260,7 @@ ActiveAdmin.setup do |config|
   #
   # You can control the max per page count too.
   #
-  # config.max_per_page = 50000
+  # config.max_per_page = 50_000
 
   # == Filters
   #
